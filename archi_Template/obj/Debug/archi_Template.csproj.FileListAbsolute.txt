@@ -1,0 +1,28 @@
+C:\Users\Soliman\source\repos\archi_Template\archi_Template\bin\Debug\archi_Template.exe.config
+C:\Users\Soliman\source\repos\archi_Template\archi_Template\bin\Debug\archi_Template.exe
+C:\Users\Soliman\source\repos\archi_Template\archi_Template\bin\Debug\archi_Template.pdb
+C:\Users\Soliman\source\repos\archi_Template\archi_Template\obj\Debug\archi_Template.csprojAssemblyReference.cache
+C:\Users\Soliman\source\repos\archi_Template\archi_Template\obj\Debug\archi_Template.Form1.resources
+C:\Users\Soliman\source\repos\archi_Template\archi_Template\obj\Debug\archi_Template.Properties.Resources.resources
+C:\Users\Soliman\source\repos\archi_Template\archi_Template\obj\Debug\archi_Template.csproj.GenerateResource.cache
+C:\Users\Soliman\source\repos\archi_Template\archi_Template\obj\Debug\archi_Template.csproj.CoreCompileInputs.cache
+C:\Users\Soliman\source\repos\archi_Template\archi_Template\obj\Debug\archi_Template.exe
+C:\Users\Soliman\source\repos\archi_Template\archi_Template\obj\Debug\archi_Template.pdb
+C:\Users\Mostafa Adel\Documents\Mostafa Arci\archi_Template\bin\Debug\archi_Template.exe.config
+C:\Users\Mostafa Adel\Documents\Mostafa Arci\archi_Template\obj\Debug\archi_Template.exe
+C:\Users\Mostafa Adel\Documents\Mostafa Arci\archi_Template\obj\Debug\archi_Template.pdb
+C:\Users\Mostafa Adel\Documents\Mostafa Arci\archi_Template\bin\Debug\archi_Template.exe
+C:\Users\Mostafa Adel\Documents\Mostafa Arci\archi_Template\bin\Debug\archi_Template.pdb
+C:\Users\Mostafa Adel\Documents\Mostafa Arci\archi_Template\obj\Debug\archi_Template.Form1.resources
+C:\Users\Mostafa Adel\Documents\Mostafa Arci\archi_Template\obj\Debug\archi_Template.Properties.Resources.resources
+C:\Users\Mostafa Adel\Documents\Mostafa Arci\archi_Template\obj\Debug\archi_Template.csproj.GenerateResource.Cache
+C:\Users\Mostafa Adel\Documents\Mostafa Arci\archi_Template\obj\Debug\archi_Template.csprojResolveAssemblyReference.cache
+C:\Users\Mostafa Adel\Desktop\Mstafa adel arci\V1_Task2_Code\archi_Template\bin\Debug\archi_Template.exe.config
+C:\Users\Mostafa Adel\Desktop\Mstafa adel arci\V1_Task2_Code\archi_Template\obj\Debug\archi_Template.exe
+C:\Users\Mostafa Adel\Desktop\Mstafa adel arci\V1_Task2_Code\archi_Template\obj\Debug\archi_Template.pdb
+C:\Users\Mostafa Adel\Desktop\Mstafa adel arci\V1_Task2_Code\archi_Template\bin\Debug\archi_Template.exe
+C:\Users\Mostafa Adel\Desktop\Mstafa adel arci\V1_Task2_Code\archi_Template\bin\Debug\archi_Template.pdb
+C:\Users\Mostafa Adel\Desktop\Mstafa adel arci\V1_Task2_Code\archi_Template\obj\Debug\archi_Template.csprojResolveAssemblyReference.cache
+C:\Users\Mostafa Adel\Desktop\Mstafa adel arci\V1_Task2_Code\archi_Template\obj\Debug\archi_Template.Form1.resources
+C:\Users\Mostafa Adel\Desktop\Mstafa adel arci\V1_Task2_Code\archi_Template\obj\Debug\archi_Template.Properties.Resources.resources
+C:\Users\Mostafa Adel\Desktop\Mstafa adel arci\V1_Task2_Code\archi_Template\obj\Debug\archi_Template.csproj.GenerateResource.Cache
